@@ -1,0 +1,16 @@
+body{
+    font-style:"Courier New";
+    background-color: rgb(163, 255, 224);
+}
+h1{
+    text-align: center;
+    background-color: red;
+    font-size: 40px;
+}
+.ftit {
+    text-align: center;
+}
+
+.recipe-method__list{
+    background-color: aqua;
+}
